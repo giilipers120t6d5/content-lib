@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://giilipers120t6d5.github.io/content-lib/sitemap.xml
